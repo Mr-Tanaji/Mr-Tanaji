@@ -9,5 +9,5 @@
 ## ![Profile Views](https://gpvc.arturio.dev/Mr-tanaji)
 
 
-## ![Followers ](https://img.shields.io/github/followers/mr-tanaji?style=social)
+## ![Followers ](https://img.shields.io/github/followers/Mr-Tanaji?style=social)
 
