@@ -2,7 +2,7 @@
 - Im Tanaji Langote.
 - Engineering Student At Solapur University In Electronics & Telecommunications Stream.
 
-- Im Intrested In Python, Open source Projects, Pyrogram,  Telegram Bots, Android devloper , etc. 
+- Im Intrested In Python, Open source Projects, Pyrogram,  Telegram Bots, Android devlopment , etc. 
 
 
 
