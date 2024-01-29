@@ -6,7 +6,7 @@
 
 
 
-##![Profile Views](https://komarev.com/ghpvc/?username=mr-tanaji&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=mr-tanaji&color=green)
 
 
 ## ![Followers ](https://img.shields.io/github/followers/Mr-Tanaji?style=social)
