@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hii Everyone !
 - I'm Tanaji Langote.
-- Engineering Student At Solapur University In Electronics & Telecommunications.
+  
 
 - Im intrested in C,Python,Java & Open source Projects. 
 
